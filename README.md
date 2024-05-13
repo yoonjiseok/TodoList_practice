@@ -1,7 +1,7 @@
 # todolist_practice
 
-A new Flutter project.
-![]https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+A new Flutter project.\n
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)\n
 ## Getting Started
 
 This project is a starting point for a Flutter application.
